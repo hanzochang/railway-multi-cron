@@ -1,4 +1,4 @@
-# awesome-cron
+# railway-multi-cron
 
 A sample project for running multiple cron jobs on Railway.app.
 
